@@ -2,7 +2,7 @@
 
 Me chamo Pedro Henrique Motta Bristot, tenho 17 anos e sou natural de Santa Catarina. Concluí o ensino médio no Colégio Sagrada Familía, e estou na quarta fase do curso técnico em Desenvolvimento de Sistemas no SENAI. Já realizei projetos em JavaScript e React no front-end, enquanto no back-end trabalho com Java e Spring. Além disso, possuo experiência em bancos de dados como MySQL e estou sempre disposto a aprimorar as minhas habilidades. 
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias 💻
 
 <img 
     align="left" 
